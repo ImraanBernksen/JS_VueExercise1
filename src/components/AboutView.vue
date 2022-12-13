@@ -1,6 +1,7 @@
 <template>
     <div class="about">
-      <h1>This is an about page</h1>
+      <h1 class="text-center">About</h1>
+      <img src="https://i.postimg.cc/XvpkZvFM/Volkano-Volkano-Logo-1.png" alt="volkano">
     </div>
     <footer>
       <div class="container">

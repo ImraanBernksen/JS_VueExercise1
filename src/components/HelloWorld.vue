@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="https://i.postimg.cc/zXDrJc90/LOGO.png">
     <h1>VOLKANO</h1>
     <p>Shop our wide range of quality earphones from Aux and Bluetooth to True Wireless<br>You'll find what you're looking for! View now</p>
+    <img src="https://i.postimg.cc/XvpkZvFM/Volkano-Volkano-Logo-1.png" alt="volkano">
   </div>
   <footer>
     <div class="container">

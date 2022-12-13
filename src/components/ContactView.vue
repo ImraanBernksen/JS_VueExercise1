@@ -1,6 +1,7 @@
 <template>
     <div class="contact">
-        <h1 class="text-center">Contact Us</h1>
+        <h1 class="text-center">Contact</h1>
+        <img src="https://i.postimg.cc/XvpkZvFM/Volkano-Volkano-Logo-1.png" alt="volkano">
 <form name="contact-form" action="https://formspree.io/f/xwkzrbbv" method="POST">
 <div class="row">
     <div class="col-6">

@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar navbar-light bg-dark static-top">
             <div class="container-fluid">
-             <img class="navbar-brand" src="https://i.postimg.cc/4dh5mxbv/Volkano-Logo-Transparent.png" alt="logo" height="50">
+             <img class="navbar-brand">
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -22,7 +22,6 @@
           </nav>
   <router-view/>
 </template>
-
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
